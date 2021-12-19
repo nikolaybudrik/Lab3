@@ -1,0 +1,15 @@
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.exe
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.deps.json
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.runtimeconfig.json
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.runtimeconfig.dev.json
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.dll
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\ref\Progect.dll
+C:\CDev\Lab1\Progect\Progect\bin\Debug\net5.0\Progect.pdb
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.AssemblyInfoInputs.cache
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.AssemblyInfo.cs
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.csproj.CoreCompileInputs.cache
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.dll
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\ref\Progect.dll
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.pdb
+C:\CDev\Lab1\Progect\Progect\obj\Debug\net5.0\Progect.genruntimeconfig.cache

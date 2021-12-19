@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Процесс не может получить доступ к файлу "c:\cdev\lab1\progect\progect\cpp_dll\cpp_dll\x64\debug\cpp_dll.pch", так как этот файл используется другим процессом.
+  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\CDev\Lab1\Progect\x64\Debug\CPP_Dll.lib и объект C:\CDev\Lab1\Progect\x64\Debug\CPP_Dll.exp
+  CPP_Dll.vcxproj -> C:\CDev\Lab1\Progect\x64\Debug\CPP_Dll.dll
